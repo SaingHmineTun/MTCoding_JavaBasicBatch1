@@ -13,13 +13,3 @@ public class Lesson14_Input {
         System.out.println("You are " + age + " years old");
     }
 }
-/*
-HOMEWORK
-String serverEmail = "sai@gmail.com";
-int serverPassword = 12345;
-
-request email
-request password
-if requested email matches serverEmail and requested password matches serverPassword then print LOGIN SUCCESS
-else print LOGIN FAILED!
- */
