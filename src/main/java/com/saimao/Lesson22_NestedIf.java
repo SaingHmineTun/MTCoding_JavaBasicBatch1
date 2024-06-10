@@ -24,8 +24,12 @@ public class Lesson22_NestedIf {
         } else {
             System.out.println("Invalid Input!");
         }
+
     }
+
+
 }
+
 /*
 serverEmail -> sai@gmail.com (String)
 serverPassword -> 1234 (int)
