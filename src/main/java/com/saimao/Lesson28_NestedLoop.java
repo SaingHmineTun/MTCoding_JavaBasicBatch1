@@ -19,21 +19,3 @@ public class Lesson28_NestedLoop {
         }
     }
 }
-/*
-
-input - 5
-*
-**
-***
-****
-*****
-
-input - 3
-*
-**
-***
-
-input - 1
-*
-
- */

@@ -1,4 +1,4 @@
-package com.saimao;
+package com.saimao.homeworks;
 
 import java.util.Scanner;
 /*
