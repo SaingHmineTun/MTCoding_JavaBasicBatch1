@@ -30,5 +30,13 @@ public class Lesson13_StringMethods {
         System.out.println("Starts With : " + startsWith);
         System.out.println("Ends With : " + first.endsWith("ai"));
         System.out.println("Contains : " + first.contains("aii"));
+
+        // concatenation
+        // +
+        // first job = int + int = addition
+        // second job = int + string = concatenation
+        String third = 1 + "2";
+        System.out.println(third);
+
     }
 }
