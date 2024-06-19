@@ -33,6 +33,7 @@ public class HomeWorkLoop {
         }
     }
 }
+
 /*
 input - 3
    *
