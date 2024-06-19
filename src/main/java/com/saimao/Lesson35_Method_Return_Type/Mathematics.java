@@ -38,6 +38,17 @@ public class Mathematics {
     boolean isSimilar() {
         return firstNumber == secondNumber;
     }
-
-
 }
+/*
+Person  ->   firstName, lastName
+Scanner ->  Write down your first name (Sai)
+            Write down your last name (Mg) (Sai Mg) (5)
+
+loop -
+    1. which name is longer (String) -> Sai
+    2. is first name and last name equal (boolean) -> false
+    3. get full name (String) ->
+    4. how many characters in full name (int) ->
+    5. Exit
+
+ */
