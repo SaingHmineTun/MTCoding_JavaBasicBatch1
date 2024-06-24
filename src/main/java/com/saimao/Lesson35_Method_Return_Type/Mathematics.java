@@ -38,6 +38,7 @@ public class Mathematics {
     boolean isSimilar() {
         return firstNumber == secondNumber;
     }
+
 }
 /*
 Person  ->   firstName, lastName
